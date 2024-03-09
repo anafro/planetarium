@@ -1,0 +1,25 @@
+{
+  "name": "planetarium",
+  "version": "1.0.0",
+  "description": "The Solar System sci-fi planetarium.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "planetarium",
+    "anafro-planetarium",
+    "typescript",
+    "javascript",
+    "ts",
+    "js",
+    "webpack",
+    "html",
+    "web",
+    "css",
+    "sass",
+    "scss"
+  ],
+  "author": "Anatoly Frolov <contact@anafro.ru>",
+  "license": "ISC"
+}
